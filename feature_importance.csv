@@ -1,0 +1,13 @@
+Feature,Importance
+num__MonthlyCharges,0.18422247701420122
+num__TenureMonths,0.16817225630219523
+num__TotalCharges,0.13387420744862666
+num__Age,0.09545391868061893
+cat__ContractType_Month-to-month,0.08957262758408353
+cat__ContractType_Two year,0.07840349591487239
+num__SupportCallsLast3Months,0.05863131296323885
+cat__InternetService_Fiber optic,0.02752514668340741
+cat__ContractType_One year,0.022165417702459705
+cat__AutoPay_Yes,0.01901960532278397
+cat__PaymentMethod_Credit card,0.018626301564903226
+cat__AutoPay_No,0.018334019518540325
